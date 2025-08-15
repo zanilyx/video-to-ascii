@@ -1,1 +1,1 @@
-made this a few months ago i dont remember how this works or anything i dont even remmeber which version of python i made it in. It basically converts any video u give into ascii format would be greatful if anyone wanst to clean the code and make a readme thank you :D
+made this a few months ago i dont remember how this works or anything i dont even remember which version of python i made it in. It basically converts any video u give into ascii format would be greatful if anyone wanst to clean the code and make a readme thank you :D
